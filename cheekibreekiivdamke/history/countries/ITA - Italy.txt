@@ -171,9 +171,9 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Benito Mussolini"
+	name = "Il duce jordy"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_Italy_Benito_Mussolini.dds"
+	picture = "Portrait_Italy_Jordy.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
@@ -182,9 +182,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ferruccio Parri"
+	name = "Il duce jordy"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "GFX_portrait_italy_ferruccio_parri"
+	picture = "Portrait_Italy_Jordy.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {
@@ -195,7 +195,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Il duce jordy"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "gfx/leaders/ITA/jordyITA.dds"
+	picture = "Portrait_Italy_Jordy.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {

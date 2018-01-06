@@ -233,9 +233,9 @@ set_autonomy = {
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
+	name = "jewson shekelhoarder"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	picture = "Portrait_UnitedStates_jason.dds"
 	expire = "1947.1.1"
 	ideology = liberalism
 	traits = {
@@ -244,9 +244,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "William Dudley Pelley"
+	name = "jewson shekelhoarder"
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
-	picture = "Portrait_USA_William_Dudley_Pelley.dds"
+	picture = "Portrait_UnitedStates_jason.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
@@ -255,9 +255,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Earl Browder"
+	name = "jewson shekelhoarder"
 	desc = "POLITICS_EARL_BROWDER_DESC"
-	picture = "Portrait_USA_Generic_1.dds"
+	picture = "Portrait_UnitedStates_jason.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
@@ -267,7 +267,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "jewson shekelhoarder"
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "gfx/leaders/USA/jasonUSA.dds"
+	picture = "Portrait_UnitedStates_jason.dds"
 	expire = "1947.1.1"
 	ideology = liberalism
 	traits = {

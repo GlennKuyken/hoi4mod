@@ -82,9 +82,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "José Agripino Barnet"
+	name = "el timó contador"
 	desc = "POLITICS_JOSE_AGRIPINO_BARNET_DESC"
-	picture = "GFX_portrait_cuba_jose_barnet"
+	picture = "Portrait_Cuba_Tjim.dds"
 	expire = "1965.1.1"
 	ideology = liberalism
 	traits = {
@@ -95,7 +95,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "el timó contador"
 	desc = "POLITICS_JOSE_AGRIPINO_BARNET_DESC"
-	picture = "gfx/leaders/CUB/timCUB.dds"
+	picture = "Portrait_Cuba_Tjim.dds"
 	expire = "1965.1.1"
 	ideology = liberalism
 	traits = {

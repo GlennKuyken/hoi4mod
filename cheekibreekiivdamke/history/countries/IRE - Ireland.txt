@@ -138,9 +138,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Eoin O'Duffy"
+	name = "Glenn Kuyken"
 	desc = "POLITICS_EOIN_ODUFFY_DESC"
-	picture = "gfx/leaders/IRA/Portrait_Ireland_Eamon_de_Valera.dds"
+	picture = "Portrait_Ireland_Glenn.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
@@ -149,9 +149,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "James Larkin"
+	name = "Glenn Kuyken"
 	desc = "POLITICS_JAMES_LARKIN_DESC"
-	picture = "gfx/leaders/IRA/Portrait_Ireland_Glenn.dds"
+	picture = "Portrait_Ireland_Glenn.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
@@ -160,9 +160,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "William Norton"
+	name = "Glenn Kuyken"
 	desc = "POLITICS_JAMES_LARKIN_DESC"
-	picture = "gfx/leaders/IRA/Portrait_Ireland_Glenn.dds"
+	picture = "Portrait_Ireland_Glenn.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {
